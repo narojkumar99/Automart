@@ -1,6 +1,6 @@
 # Automart
 
-An e-commerce mobile app for selling and/or buying motor vehicles and their spare parts
+An e-commerce mobile app for selling and/or buying motor vehicles and their spare part
 
 ### Screenshots
 <img src="screenshots/one.png" width="200">    <img src="screenshots/two.png" width="200">
